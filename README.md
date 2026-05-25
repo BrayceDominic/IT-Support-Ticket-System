@@ -197,6 +197,3 @@ it-support-system/
 * Analytics dashboard for admins
 * Mobile-responsive design
 
-
-
-Do you want me to do that?
